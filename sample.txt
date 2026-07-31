@@ -1,0 +1,2 @@
+This text is loaded from a text file using jQuery Ajax.
+mataji sukhi rahee yaar !!!!
